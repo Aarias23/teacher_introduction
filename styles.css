@@ -56,10 +56,11 @@ body {
   margin-bottom: 10px;
 }
 
-.text p {
+p {
   color: #333;
   line-height: 12.6;
   margin-bottom: 10px;
+  text-align: justify;
 }
 
 .video {
